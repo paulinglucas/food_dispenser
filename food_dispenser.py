@@ -8,7 +8,7 @@ NAME_OF_DOG = 'Ollie'
 
 # credit to Alex Wilkinson
 # http://thingswatihavedonewithmyraspberrypi.blogspot.com/2012/10/controlling-bigtrack-motors-with-my.html
-# for providing code for RPi.GPIO settings
+# for providing basis of code for RPi.GPIO settings
 
 engine = pyttsx.init()
 engine.say('Pouring food, for', NAME_OF_DOG)
